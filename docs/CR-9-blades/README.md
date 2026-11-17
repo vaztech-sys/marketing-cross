@@ -1,6 +1,6 @@
 # CR-9: blades Cross, layout definitivo aprovado para produção
 
-Card no Jira: [CR-9](https://vaztech.atlassian.net/browse/CR-9). Envio ao fornecedor: [CR-22](https://vaztech.atlassian.net/browse/CR-22). RPM: [CR-16](https://vaztech.atlassian.net/browse/CR-16).
+Card no Jira: [CR-9](https://vaztech.atlassian.net/browse/CR-9). RPM: [CR-16](https://vaztech.atlassian.net/browse/CR-16).
 
 As 15 artes foram recebidas em 17/11/2026: 5 linhas, cada uma em 14″, 16″ e 18″. Todas para corte úmido ("WET CUTTING") e "MADE FOR 10-25 HP MACHINES".
 
